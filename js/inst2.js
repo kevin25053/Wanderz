@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(response => {
       const data = response.data;
       // Use the received data to update your home page
-      const serverUrl=`http://${localhost}:3000/News/0-10`;
+      const serverUrl=`http://wanderz.onrender.com/News/0-10`;
       axios.get(`${serverUrl}`)
       .then(response => {
           thejson=response.data;
