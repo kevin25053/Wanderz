@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     home.addEventListener('click', () => {
       // Redirect to /News
       
-      window.location.href = `http://${localhost}:3000/home`;
+      window.location.href = `http://wanderz.onrender.com/home`;
     });
     news.addEventListener('click', () => {
         // Redirect to /News
