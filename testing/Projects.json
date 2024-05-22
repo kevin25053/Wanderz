@@ -1,0 +1,17 @@
+{
+    "PROJECT1":{
+        "name":"News Scrapper from Rwandan the New times",
+        "thumbnail":"https://ipma.world/app/uploads/2015/09/Dollarphotoclub_65655745-1-1.jpg",
+        "url":"http://192.168.0.198:3000/News",
+        "published":"7/01/2024"
+
+    },
+    "PROJECT2":{
+        "name":"Shopping website to operate like Shopify",
+        "thumbnail":"https://ipma.world/app/uploads/2015/09/Dollarphotoclub_65655745-1-1.jpg",
+        "url":"http://192.168.0.198:3000/Shop",
+        "published":"7/1/2024"
+
+    }
+    
+}
